@@ -8,3 +8,5 @@
   - link
 
 <h3> Looking for an internship in cybersecurity or IT for Winter, Spring, Summer, and Fall 2024. </h3>
+
+![image](https://github.com/thejackpowell/thejackpowell/assets/137362303/2fed418c-7420-47d9-ad6c-7e58d8b38ce2)
