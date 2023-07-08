@@ -7,7 +7,4 @@
 - <b>Full Keylogger (not executable) Using Python</b>
   - link
 
-<h2> 🤳 Connect with me:</h2>
-
-- [instagram]: https://www.instagram.com/_jackpowell__/
-- [linkedin]: https://linkedin.com/in/jack-powell-/
+<h3> Looking for an internship in cybersecurity or IT for Winter, Spring, Summer, and Fall 2024. </h3>
