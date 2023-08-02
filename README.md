@@ -5,7 +5,7 @@
 - <b>SURVIVOR Excel Book and Data Analytics using PivotCharts, PivotTables, VBA Coding </b>
   - link
 - <b>Full Keylogger (not executable) Using Python</b>
-  - link
+  - python.py
 
 <h3> Looking for an internship in cybersecurity or IT for Winter, Spring, Summer, and Fall 2024. </h3>
 
