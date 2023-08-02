@@ -1,5 +1,5 @@
 # Hello! This is my keylogger project, where I developed an interactive piece of software that can monitor keystrokes, take screenshots, and more.
-# If you have any comments, please email
+# If you have any comments, please feel free to reach out on LinkedIn or by email/phone at jackfp@vt.edu/571-271-3549. Thank you!
 
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
