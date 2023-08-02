@@ -1,4 +1,5 @@
-# Libraries
+# Hello! This is my keylogger project, where I developed an interactive piece of software that can monitor keystrokes, take screenshots, and more.
+# If you have any comments, please email
 
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
