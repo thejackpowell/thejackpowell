@@ -8,5 +8,6 @@
   - [keylogger.py](https://github.com/thejackpowell/thejackpowell/blob/main/python.py)
 
 <h3> Looking for an internship in cybersecurity or IT for Winter, Spring, Summer, and Fall 2024. </h3>
+<h3> Uploading walkthroughs for projects in the month of August! </h3>
 
 ![image](https://github.com/thejackpowell/thejackpowell/assets/137362303/2fed418c-7420-47d9-ad6c-7e58d8b38ce2)
