@@ -12,4 +12,4 @@
 
 <h3> Currently employed at Kearney & Company, page for showing projects and progress in my cybersecurity professional development. </h3>
 
-![image]((https://www.sandyspringbank.com/sites/default/files/testimonials/Kearney%20Logo_Transparent-500_0.png))
+![image](https://github.com/user-attachments/assets/0da97d3f-4b3c-4593-a4c3-197059177789)
