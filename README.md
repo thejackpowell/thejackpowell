@@ -2,6 +2,9 @@
 
 <h2>Projects</h2>
 
+- <b>Qualys VM and SCAP/STIG Remediation Demonstrations </b>
+  - [qualysvm](https://youtu.be/BlBMjHgEYBs)
+  - [scapstigremediation](https://youtu.be/vpWu16ECH0E)
 - <b>Azure SIEM Demonstration </b>
   - [siemdemonstration](https://youtu.be/QP9A5toYOgY)
 - <b>SURVIVOR Excel Book and Data Analytics using PivotCharts, PivotTables, VBA Coding </b>
